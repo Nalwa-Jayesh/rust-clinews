@@ -1,0 +1,13 @@
+D:\Jayesh\coding\rust-projects\clinews\target\debug\deps\url-bdcf52bb715e97ad.rmeta: C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\host.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\origin.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\parser.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\path_segments.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\slicing.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\quirks.rs
+
+D:\Jayesh\coding\rust-projects\clinews\target\debug\deps\liburl-bdcf52bb715e97ad.rlib: C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\host.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\origin.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\parser.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\path_segments.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\slicing.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\quirks.rs
+
+D:\Jayesh\coding\rust-projects\clinews\target\debug\deps\url-bdcf52bb715e97ad.d: C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\host.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\origin.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\parser.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\path_segments.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\slicing.rs C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\quirks.rs
+
+C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\lib.rs:
+C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\host.rs:
+C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\origin.rs:
+C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\parser.rs:
+C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\path_segments.rs:
+C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\slicing.rs:
+C:\Users\LENOVO\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\quirks.rs:

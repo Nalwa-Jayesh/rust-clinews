@@ -1,0 +1,1 @@
+D:\Jayesh\coding\rust-projects\clinews\target\debug\clinews.exe: D:\Jayesh\coding\rust-projects\clinews\newsapi\src\lib.rs D:\Jayesh\coding\rust-projects\clinews\src\main.rs D:\Jayesh\coding\rust-projects\clinews\src\theme.rs
